@@ -185,7 +185,7 @@ BEGIN
     
     CLOSE cursorname;
 END;
-
+//
 
 --------******************************* EXCEPTION
 DECLARE 
